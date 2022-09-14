@@ -14,3 +14,7 @@ verano
 invierno
 otono
 primavera
+
+meses
+enero
+febrero
